@@ -1,0 +1,11 @@
+name: Jane Doe
+age: 25
+city: Los Angeles
+is_student: true
+grade:
+  - subject: Math
+    grade: A
+  - subject: English
+    grade: B
+  - subject: Science
+    grade: A+
